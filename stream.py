@@ -1,7 +1,7 @@
 import streamlit as st
 
 # Set page to "wide" mode
-st.set_page_config(layout="wide", page_title="Live News TV Wall")
+st.set_page_config(layout="wide", page_title="Live News TV Wall: Iran/Israel War")
 
 # Custom CSS to maintain 16:9 aspect ratio in each column (responsive)
 st.markdown("""
